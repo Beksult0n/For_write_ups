@@ -11,7 +11,7 @@ Saytga kirganimdagi dastlabki ko'rinishi.
 ![](Pasted image 20260419155120.png)
 
 
-![](Pasted image 20260419163940.png)
+![](CUTS/Pasted image 20260419163940.png)
 
 `/about` sahifasini ham ko'rib chiqdim. U Alex haqida ma'lumotlar bor edi.
 
