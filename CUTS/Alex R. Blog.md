@@ -8,14 +8,14 @@ Flag format: `CUTS{...}`
 
 Saytga kirganimdagi dastlabki ko'rinishi.
 
-![[Pasted image 20260419155120.png]]
+![](Pasted image 20260419155120.png)
 
 
-![[Pasted image 20260419163940.png]]
+![](Pasted image 20260419163940.png)
 
 `/about` sahifasini ham ko'rib chiqdim. U Alex haqida ma'lumotlar bor edi.
 
-![[Pasted image 20260419155526.png]]
+![](Pasted image 20260419155526.png)
 `/my-setup` posti esa biroz qiziqroq edi, chunki unda Flask tilga olingan. Bu detail backend texnologiyasini anglatib turardi, lekin hali flagga olib boradigan to'g'ridan-to'g'ri yo'l emas edi.
 
 ![[Pasted image 20260419155614.png]]
