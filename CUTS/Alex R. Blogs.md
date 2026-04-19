@@ -16,11 +16,13 @@ Saytga kirganimdagi dastlabki ko'rinishi.
 `/about` sahifasini ham ko'rib chiqdim. U Alex haqida ma'lumotlar bor edi.
 
 ![](sozlamam.png)
+
 `/my-setup` posti esa biroz qiziqroq edi, chunki unda Flask tilga olingan. Bu detail backend texnologiyasini anglatib turardi, lekin hali flagga olib boradigan to'g'ridan-to'g'ri yo'l emas edi.
 
 ![](sozlamam.png)
 
 `/radiohead-ok-computer`
+
 ![](okcomputer.png)
 Postlarni ham tezda ko'rib chiqdim va qismiga e'tibor berganimda `robots.txt` linki borligini ko'rdim. Web challenge'larda bu ko'pincha kerakli boshlang'ich nuqta bo'ladi, shuning uchun check qilib ko'rdim.
 # Interesting Endpoints
