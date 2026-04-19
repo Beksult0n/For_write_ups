@@ -24,6 +24,7 @@ Saytga kirganimdagi dastlabki ko'rinishi.
 `/radiohead-ok-computer`
 
 ![](okcomputer.png)
+
 Postlarni ham tezda ko'rib chiqdim va qismiga e'tibor berganimda `robots.txt` linki borligini ko'rdim. Web challenge'larda bu ko'pincha kerakli boshlang'ich nuqta bo'ladi, shuning uchun check qilib ko'rdim.
 # Interesting Endpoints
 
