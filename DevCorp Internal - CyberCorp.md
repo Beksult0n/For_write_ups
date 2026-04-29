@@ -1,6 +1,6 @@
-![[Pasted image 20260429143849.png]]
+![](images/Discription.png)
 
-![[Pasted image 20260429145929.png]]
+![](images/Devcrop.png)
 
 ```bash
 GET /lab/32000/ HTTP/2 
@@ -203,6 +203,6 @@ alt-svc: h3=":443"; ma=86400
 
 `Flag` shifrlangan holda chiqdi va `Rot13` yordamida flagni deshifrlandi. 
 
-![[Pasted image 20260429145623.png]]
+![](images/cyberchef_rot13.png)
 
 > *CYB{1BF705581C899EED062F}*
