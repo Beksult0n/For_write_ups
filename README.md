@@ -122,6 +122,10 @@ Blue Team Defense
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beksult0n&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beksult0n&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beksult0n&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </div>
 
 ---
