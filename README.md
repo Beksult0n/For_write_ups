@@ -106,27 +106,6 @@ Blue Team Defense
 
 ---
 
-# 📂 REPOSITORY STRUCTURE
-
-```bash
-For_write_ups/
-│
-├── Web_Exploitation/
-├── API_Security/
-├── CTF_Writeups/
-├── Reverse_Engineering/
-├── Malware_Analysis/
-├── Active_Directory/
-├── Privilege_Escalation/
-├── OSINT/
-├── Digital_Forensics/
-├── CVE_Research/
-├── Red_Team/
-└── Blue_Team/
-```
-
----
-
 # 🏆 ACHIEVEMENTS
 
 <div align="center">
@@ -143,10 +122,6 @@ For_write_ups/
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beksult0n&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beksult0n&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beksult0n&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
 </div>
 
 ---
@@ -155,7 +130,7 @@ For_write_ups/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Beksult0n/Beksult0n/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Beksult0n/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -166,7 +141,7 @@ For_write_ups/
 ```bash
 101010101010101010101010101010101010101010101010
 010101010101010101010101010101010101010101010101
-101010 CYBERSECURITY RESEARCH DATABASE ACTIVE 0101
+1010 CYBERSECURITY RESEARCH DATABASE ACTIVE 0101
 010101010101010101010101010101010101010101010101
 ```
 
@@ -195,24 +170,6 @@ For_write_ups/
 </div>
 
 ---
-
-# 💀 LIVE STATUS
-
-<div align="center">
-
-```bash
-[ SYSTEM STATUS ]
-██████████████████████ 100%
-
-[ RED TEAM MODE ]
-██████████████████████ ACTIVE
-
-[ THREAT ANALYSIS ]
-██████████████████████ RUNNING
-
-[ WRITEUPS DATABASE ]
-██████████████████████ ONLINE
-```
 
 </div>
 
