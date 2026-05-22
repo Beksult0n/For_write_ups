@@ -120,21 +120,7 @@ Blue Team Defense
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beksult0n&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beksult0n&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beksult0n&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Beksult0n/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -147,6 +133,7 @@ Blue Team Defense
 010101010101010101010101010101010101010101010101
 1010 CYBERSECURITY RESEARCH DATABASE ACTIVE 0101
 010101010101010101010101010101010101010101010101
+101010101010101010101010101010101010101010101010
 ```
 
 ---
