@@ -23,7 +23,7 @@
 > Loading Exploitation Techniques...
 > Loading CTF Writeups...
 > Loading Malware Analysis...
-> Loading Red Team Knowledge Base...
+> Loading Red Team and Bule Team Knowledge Base...
 > Status: ONLINE
 ````
 
@@ -160,8 +160,6 @@ Blue Team Defense
 
 </div>
 
----
-
 </div>
 
 ---
@@ -182,4 +180,3 @@ Blue Team Defense
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a1a,100:00ff99&height=150&section=footer"/>
 
 </div>
-```
