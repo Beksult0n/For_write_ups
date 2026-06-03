@@ -105,26 +105,6 @@ Blue Team Defense
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Beksult0n&theme=matrix&no-frame=true&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Beksult0n&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
----
-
 # ☠️ MATRIX EFFECT
 
 ```bash
@@ -145,16 +125,8 @@ Blue Team Defense
 <img src="https://img.shields.io/badge/GitHub-00ff99?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://t.me/YOUR_USERNAME">
+<a href="https://t.me/Bek_481_22">
 <img src="https://img.shields.io/badge/Telegram-00ff99?style=for-the-badge&logo=telegram&logoColor=black"/>
-</a>
-
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/Discord-00ff99?style=for-the-badge&logo=discord&logoColor=black"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-00ff99?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 </div>
